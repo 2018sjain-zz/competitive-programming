@@ -1,2 +1,2 @@
-# USACO
-My submissions for the USA Computing Olympiad competition
+# Competitive Programming
+My submissions for various different computer programming challenges
